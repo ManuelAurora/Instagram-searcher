@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ExploreCollectionCollectionViewController.viewDidLoad() -&gt; ():ExploreCollectionCollectionViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "width">
+            </PersistentString>
+            <PersistentString
+               value = "CGRectGetWidth(collectionView!.frame)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
